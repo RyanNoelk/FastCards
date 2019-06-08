@@ -1,0 +1,6 @@
+export default  {
+  INIT: 'QUIZ_INIT',
+  SKIP: 'QUIZ_SKIP',
+  CORRECT: 'QUIZ_CORRECT',
+  INCORRECT: 'QUIZ_INCORRECT',
+};
